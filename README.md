@@ -20,6 +20,7 @@ optional arguments:
   -o [OUT_PATH], --out-path [OUT_PATH]
                         path to encoded (qoi) or decoded (png) image file
 </pre>
+
 # Test
 <pre>
 Encoding:
@@ -29,8 +30,6 @@ python .\qoi.py -opr e -f 001.png -o out.qoi
 Decoding
 python .\qoi.py -opr d -f 001.qoi -o out.png
 </pre>
-# Usage
-
 
 # License
 This project is licensed under the MIT License.
