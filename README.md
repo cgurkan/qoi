@@ -1,6 +1,6 @@
 A python implementation of a QOI “Quite OK Image” image converter. It writes PIL Images (PNG files) into QOI files or Opens QOI files and loads them as PIL Images (PNG file).
 
-Original implementation for QOI format can be found on this [link](https://www.qoiformat.org/).
+Original implementation for QOI format can be found on this [link](https://qoiformat.org/).
 
 # Setup
 <pre>
